@@ -1,28 +1,32 @@
 {
-  "name": "electron-quick-start",
+  "name": "thai-cv-risk",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Thai CV Risk Calculator",
   "main": "main.js",
-  "scripts": {
-    "start": "electron main.js"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/electron-quick-start.git"
+    "url": "git+https://github.com/siteslave/thai-cv-risk.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "ThaiCVRisk",
+    "CVD",
+    "Risk",
+    "Health"
   ],
-  "author": "GitHub",
+  "author": "Satit Rianpit <rianpit@gmail.com>",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/atom/electron-quick-start/issues"
+    "url": "https://github.com/siteslave/thai-cv-risk/issues"
   },
-  "homepage": "https://github.com/atom/electron-quick-start#readme",
-  "devDependencies": {
-    "electron-prebuilt": "^0.36.0"
+  "homepage": "https://github.com/siteslave/thai-cv-risk#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-animate": "^1.4.8",
+    "angular-aria": "^1.4.8",
+    "angular-material": "^1.0.1",
+    "angular-messages": "^1.4.8",
+    "angular-ui-router": "^0.2.15",
+    "open": "0.0.5"
   }
 }
