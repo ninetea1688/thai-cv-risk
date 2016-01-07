@@ -29,3 +29,15 @@ $ npm install electron-packager -g
 $ electron-packager thai-cv-risk ThaiCVDRisk --platform=all --arch=all --version=0.36.2
 ```
 
+
+# Screen Short
+
+![](./screen_short/01.png)
+
+![](./screen_short/02.png)
+
+![](./screen_short/03.png)
+
+![](./screen_short/04.png)
+
+![](./screen_short/05.png)
