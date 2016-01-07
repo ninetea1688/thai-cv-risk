@@ -19,3 +19,13 @@ $ electron .
 
 ```
 
+## How to deployment
+
+```bash
+$ cd ..
+# Install electron-packager
+$ npm install electron-packager -g
+# Deployment/Packaging
+$ electron-packager thai-cv-risk ThaiCVDRisk --platform=all --arch=all --version=0.36.2
+```
+
